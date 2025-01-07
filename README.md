@@ -19,3 +19,9 @@ Mediante esta librería es posible convertir archivos de markdown directamente e
 ### URL para conseguir la librería:
 Puedes conseguir la librería desde: 
 [Enlace al repositorio de GitHub](URL "https://github.com/jocarsa/jocarsa-navy/")
+
+### Ejemplo de uso
+
+Para insertar el código dentro de tu proyecto, debes hacerlo mediante el comando **include**:
+``` include "jocarsa | navy.php";
+
