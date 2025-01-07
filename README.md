@@ -67,9 +67,16 @@ Esto es  un texto
 
 ### Estado actual del soporte de elementos en la librería:
 
-| Nombre de la característica | Estado             |
-|-----------------------------|--------------------|
-|Titulares                    |[x]Implementado     |
-|Enlaces                      |[x]Implementado     |
-|Gráficas                     |[ ]Pendiente        |
+| Nombre de la característica | Estado              |
+|-----------------------------|---------------------|
+|Titulares                    |[x] Implementado     |
+|Enlaces                      |[x] Implementado     |
+|Gráficas                     |[ ] Pendiente        |
 
+### Autor de la librería
+Esta librería la ha creado Jose Vicente Carratalá
+
+![Jose Vicente Carratalá](https://pbs.twimg.com/profile_images/1234182602027868160/_QH5i5tz_400x400.jpg)
+
+Y como siempre dice el autor de la librería:
+> "Cuidado con los puntos y coma"
